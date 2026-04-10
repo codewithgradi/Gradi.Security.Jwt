@@ -39,23 +39,6 @@ Building **Simply** or **HireMe**? Don't spend hours on auth—plug in this libr
 
 Add the GitHub package source and install via the .NET CLI:
 
-```bash
-dotnet add package Gradi.Security.Jwt --version 1.0.0 --source github
----
 
-## 🛠️ Quick Start
-
-### 1. Define Settings
-Add your credentials to your API's `appsettings.json`. The library will automatically bind these values.
-
-```json
-{
-  "JwtSettings": {
-    "SigningKey": "REPLACE_WITH_A_SECURE_LONG_KEY_AT_LEAST_32_CHARS",
-    "Issuer": "GradiAuth",
-    "Audience": "GradiUsers",
-    "DurationInMinutes": 15
-  }
-}
 
 <img width="1358" height="727" alt="11 04 2026_00 22 47_REC" src="https://github.com/user-attachments/assets/ab7810a5-dbce-441f-b9b8-a655a9d92499" />
