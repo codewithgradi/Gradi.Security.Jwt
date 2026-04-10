@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gradi.Security.Jwt", "Gradi.Security.Jwt.csproj", "{B4137DF5-BF8D-CF68-54B1-293D1018E838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4137DF5-BF8D-CF68-54B1-293D1018E838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4137DF5-BF8D-CF68-54B1-293D1018E838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4137DF5-BF8D-CF68-54B1-293D1018E838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4137DF5-BF8D-CF68-54B1-293D1018E838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B773738E-78B9-4768-BC70-705B338972E4}
+	EndGlobalSection
+EndGlobal
