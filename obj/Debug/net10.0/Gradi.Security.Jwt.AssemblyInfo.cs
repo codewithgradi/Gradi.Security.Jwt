@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gradi.Security.Jwt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1a35144a43db21dd0ae85de30b404b2adfdb23a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8ad70365590a0cb3f2fd5bc75fdaadae524108b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gradi.Security.Jwt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gradi.Security.Jwt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
