@@ -57,3 +57,9 @@ Add your credentials to your API's `appsettings.json`. The library will automati
     "DurationInMinutes": 15
   }
 }
+
+<div align="center">
+<sub>Built with ❤️ by <a href="https://www.google.com/search?q=https://github.com/codewithgradi">Gradi Puata</a>. Distributed as a NuGet Package on GitHub.</sub>
+<br />
+<sub>Released under the MIT License.</sub>
+</div>
