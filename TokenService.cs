@@ -6,9 +6,6 @@ using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.AspNetCore.Identity;
 
-
-
-
 public class TokenService<TUser> : ITokenService<TUser> where TUser : IdentityUser
 {
   private readonly SymmetricSecurityKey _key;

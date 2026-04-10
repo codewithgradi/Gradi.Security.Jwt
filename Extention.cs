@@ -33,7 +33,6 @@ public static class IdentityServiceExtensions
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSettings.SigningKey!))
       };
 
-      // Keeps your Cookie logic intact
       opt.Events = new JwtBearerEvents
       {
         OnMessageReceived = context =>
