@@ -58,3 +58,4 @@ Add your credentials to your API's `appsettings.json`. The library will automati
   }
 }
 
+<img width="1358" height="727" alt="11 04 2026_00 22 47_REC" src="https://github.com/user-attachments/assets/ab7810a5-dbce-441f-b9b8-a655a9d92499" />
