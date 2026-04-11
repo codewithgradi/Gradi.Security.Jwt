@@ -19,7 +19,7 @@
 
 `Gradi.Security.Identity` was born out of a need to eliminate boilerplate in microservice development. It centralizes **JWT Authentication** and **ASP.NET Core Identity** logic into a single, generic package. 
 
-Building **Simply** or **HireMe**? Don't spend hours on auth—plug in this library and focus on your business logic.
+Building **.Net Project**? Don't spend hours on auth—plug in this library and focus on your business logic.
 
 ---
 
