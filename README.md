@@ -41,4 +41,5 @@ Add the GitHub package source and install via the .NET CLI:
 
 
 
-<img width="1358" height="727" alt="11 04 2026_00 22 47_REC" src="https://github.com/user-attachments/assets/ab7810a5-dbce-441f-b9b8-a655a9d92499" />
+
+<img width="906" height="629" alt="11 04 2026_10 06 17_REC" src="https://github.com/user-attachments/assets/52a63198-02d9-4951-a213-20440c21b121" />
